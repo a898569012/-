@@ -1,0 +1,11 @@
+@charset "UTF-8";
+*{
+    margin: 0PX;
+    padding: 1PX;
+}
+h1{
+    color: aquamarine;
+}
+.P1{
+    color: yellow;
+}
